@@ -7,7 +7,7 @@ setup(
   author = 'Ross Cohen',
   author_email = 'rjc55@njit.edu',
   url = 'https://github.com/BossColo/multilabel',
-  download_url = 'https://github.com/BossColo/multilabel/tarball/0.1',
+  download_url = 'https://github.com/BossColo/multilabel/tarball/0.2',
   keywords = ['Python', 'matplotlib', 'xlabels'],
   install_requires = ['bisect', 'matplotlib', 'datetime'],
   classifiers = [],
