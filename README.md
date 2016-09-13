@@ -5,7 +5,7 @@ Bugs:
 
 1.  If you want to use parenthesis in the label caption (something like L (Re)), then you need to use a different font to keep everything lined up. If you don't mind not having parenthesis (or brackets), then don't worry about this.
 
-  To change your font, just add these two lines near the begging of your code:
+  To change your font, just add these two lines near the beginning of your code:
 
   from matplotlib import rc
   
