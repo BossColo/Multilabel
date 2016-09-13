@@ -8,6 +8,7 @@ Bugs:
   To change your font, just add these two lines near the begging of your code:
 
   from matplotlib import rc
+  
   rc('font', family='Mono')
   
 2.  Be wary with changing xlim. If you have a shared xaxis, make sure that you change the xlim of the axis that you're passing to the function. Also, make certain that if you have time data on the xaxis, if you change the xlim, you use pass datetime objects to set_xlim().
